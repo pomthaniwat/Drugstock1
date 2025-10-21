@@ -1,0 +1,5 @@
+{
+  "name": "Drug Store POS",
+  "description": "A modern web-based replica of a classic Thai pharmacy Point of Sale (POS) and inventory management system, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
